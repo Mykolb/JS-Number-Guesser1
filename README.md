@@ -2,7 +2,7 @@
 practice based on Udemy course
 
 
-#Built using:
+# Built using:
     - JavaScript
     - Skeleton
 
